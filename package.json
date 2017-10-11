@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/1886afc/brainstorming-app#readme",
   "dependencies": {
-    "express": "^4.16.1"
+    "express": "^4.16.1",
+    "express-handlebars": "^3.0.0"
   }
 }
