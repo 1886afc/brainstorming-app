@@ -18,8 +18,10 @@
   "homepage": "https://github.com/1886afc/brainstorming-app#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
+    "connect-flash": "^0.1.1",
     "express": "^4.16.1",
     "express-handlebars": "^3.0.0",
+    "express-session": "^1.15.6",
     "method-override": "^2.3.10",
     "mongoose": "^4.12.1"
   }
